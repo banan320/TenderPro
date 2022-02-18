@@ -230,8 +230,8 @@ body {
 }
 
 main {
-  background: url(./img/baground/1bg1920.jpg) 0 0/contain no-repeat;
-  -ms-background: url(./img/baground/1bg1920.jpg) 0 0/contain no-repeat;
+  background: url(../img/baground/1bg1920.jpg) 0 0/contain no-repeat;
+  -ms-background: url(../img/baground/1bg1920.jpg) 0 0/contain no-repeat;
   padding: 0 0 224px 0;
   overflow: hidden;
   margin-top: 80px;
@@ -268,7 +268,7 @@ main {
 }
 
 .main__menu li:nth-child(1)::after {
-  content: url(./img/icons/arrow.svg);
+  content: url(../img/icons/arrow.svg);
   padding: 0 12px 0 0;
   opacity: 1;
 }
@@ -332,7 +332,7 @@ main {
 }
 
 .problems__item li::before {
-  content: url(./img/icons/cross.svg);
+  content: url(../img/icons/cross.svg);
   display: inline-block;
   position: absolute;
   left: 0px;
@@ -432,7 +432,7 @@ main {
 }
 
 .solution__item li::before {
-  content: url(./img/icons/check.svg);
+  content: url(../img/icons/check.svg);
   display: inline-block;
   position: absolute;
   left: 0px;
@@ -659,12 +659,12 @@ main {
 .reviews__btn-arrows .slick-arrow.slick-prev {
   margin-right: 10px;
   left: 0;
-  background: url("./img/bg1.svg") 0 0px/35px 41px no-repeat, url("./img/prew.svg") 0 10px/35px 20px no-repeat;
+  background: url("../img/bg1.svg") 0 0px/35px 41px no-repeat, url("../img/prew.svg") 0 10px/35px 20px no-repeat;
 }
 
 .reviews__btn-arrows .slick-arrow.slick-next {
   right: 0;
-  background: url("./img/bg1.svg") -2px 2px/51px 36px no-repeat, url("./img/prew.svg") 6px 10px/35px 20px no-repeat;
+  background: url("../img/bg1.svg") -2px 2px/51px 36px no-repeat, url("../img/prew.svg") 6px 10px/35px 20px no-repeat;
   -webkit-transform: rotate(-180deg);
           transform: rotate(-180deg);
 }
@@ -781,22 +781,22 @@ main {
 }
 
 .block-item-text .text__handset::before {
-  content: url(./img/icons/handset.svg);
+  content: url(../img/icons/handset.svg);
   padding: 0 10px 0 0;
 }
 
 .block-item-text .text__phone::before {
-  content: url(./img/icons/phone.svg);
+  content: url(../img/icons/phone.svg);
   padding: 0 10px 0 2px;
 }
 
 .block-item-text .text__email::before {
-  content: url(./img/icons/email.svg);
+  content: url(../img/icons/email.svg);
   padding: 0 10px 0 0;
 }
 
 .block-item-text .text__skype::before {
-  content: url(./img/icons/skype.svg);
+  content: url(../img/icons/skype.svg);
   padding: 0 11px 0 1px;
 }
 
@@ -1008,8 +1008,8 @@ main {
 
 @media (max-width: 1440px) {
   main {
-    background: url(./img/baground/1bg1440.jpg) 0 0/contain no-repeat;
-    -ms-background: url(./img/baground/1bg1440.jpg) 0 0/contain no-repeat;
+    background: url(../img/baground/1bg1440.jpg) 0 0/contain no-repeat;
+    -ms-background: url(../img/baground/1bg1440.jpg) 0 0/contain no-repeat;
     padding: 0 0 228px 0;
   }
   .main__title {
@@ -1161,8 +1161,8 @@ main {
     color: #969595;
   }
   main {
-    background: url(./img/baground/1bg768.jpg) 0 0/contain no-repeat;
-    -ms-background: url(./img/baground/1bg768.jpg) 0 0/contain no-repeat;
+    background: url(../img/baground/1bg768.jpg) 0 0/contain no-repeat;
+    -ms-background: url(../img/baground/1bg768.jpg) 0 0/contain no-repeat;
     padding: 0 0 310px 0;
   }
   .main__title {
@@ -1247,11 +1247,11 @@ main {
   .project__btn-arrows .slick-arrow.slick-prev {
     margin-right: 10px;
     left: 0;
-    background: url("./img/bg1.svg") 0 0px/35px 41px no-repeat, url("./img/prew.svg") 0 10px/35px 20px no-repeat;
+    background: url("../img/bg1.svg") 0 0px/35px 41px no-repeat, url("../img/prew.svg") 0 10px/35px 20px no-repeat;
   }
   .project__btn-arrows .slick-arrow.slick-next {
     right: 0;
-    background: url("./img/bg1.svg") -2px 2px/51px 36px no-repeat, url("./img/prew.svg") 6px 10px/35px 20px no-repeat;
+    background: url("../img/bg1.svg") -2px 2px/51px 36px no-repeat, url("../img/prew.svg") 6px 10px/35px 20px no-repeat;
     -webkit-transform: rotate(-180deg);
             transform: rotate(-180deg);
   }
@@ -1416,8 +1416,8 @@ main {
   }
   main {
     margin-top: 52px;
-    background: url(./img/baground/1bg320.jpg) 0 0/contain no-repeat;
-    -ms-background: url(./img/baground/1bg320.jpg) 0 0/contain no-repeat;
+    background: url(../img/baground/1bg320.jpg) 0 0/contain no-repeat;
+    -ms-background: url(../img/baground/1bg320.jpg) 0 0/contain no-repeat;
   }
   .main__menu {
     padding: 12px 16px;
