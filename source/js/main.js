@@ -5,7 +5,7 @@ $(document).ready(function () {
     loop: true,
     dots: true,
     slidesToShow: 3,
-    autoplay: false,
+    autoplay: true,
     speed: 800,
     autoplaySpeed: 5000,
     swipe: true,
